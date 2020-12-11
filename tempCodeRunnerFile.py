@@ -1,0 +1,1 @@
+print(cell.coordinate, end=" ")  # A10,
